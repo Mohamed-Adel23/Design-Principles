@@ -1,0 +1,14 @@
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VechileInheritence.exe
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VechileInheritence.deps.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VechileInheritence.runtimeconfig.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VechileInheritence.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VechileInheritence.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VechileInheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VechileInheritence.AssemblyInfoInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VechileInheritence.AssemblyInfo.cs
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VechileInheritence.csproj.CoreCompileInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VechileInheritence.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\refint\DesignPrinciples.VechileInheritence.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VechileInheritence.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VechileInheritence.genruntimeconfig.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\ref\DesignPrinciples.VechileInheritence.dll

@@ -1,0 +1,14 @@
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\bin\Debug\net8.0\DesignPrinciples.VehicleComposition.exe
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\bin\Debug\net8.0\DesignPrinciples.VehicleComposition.deps.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\bin\Debug\net8.0\DesignPrinciples.VehicleComposition.runtimeconfig.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\bin\Debug\net8.0\DesignPrinciples.VehicleComposition.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\bin\Debug\net8.0\DesignPrinciples.VehicleComposition.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\DesignPrinciples.VehicleComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\DesignPrinciples.VehicleComposition.AssemblyInfoInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\DesignPrinciples.VehicleComposition.AssemblyInfo.cs
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\DesignPrinciples.VehicleComposition.csproj.CoreCompileInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\DesignPrinciples.VehicleComposition.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\refint\DesignPrinciples.VehicleComposition.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\DesignPrinciples.VehicleComposition.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\DesignPrinciples.VehicleComposition.genruntimeconfig.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.VehicleComposition\obj\Debug\net8.0\ref\DesignPrinciples.VehicleComposition.dll

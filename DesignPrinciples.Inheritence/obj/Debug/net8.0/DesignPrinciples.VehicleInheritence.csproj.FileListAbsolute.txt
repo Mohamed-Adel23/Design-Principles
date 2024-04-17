@@ -1,0 +1,14 @@
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VehicleInheritence.exe
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VehicleInheritence.deps.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VehicleInheritence.runtimeconfig.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VehicleInheritence.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\bin\Debug\net8.0\DesignPrinciples.VehicleInheritence.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VehicleInheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VehicleInheritence.AssemblyInfoInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VehicleInheritence.AssemblyInfo.cs
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VehicleInheritence.csproj.CoreCompileInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VehicleInheritence.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\refint\DesignPrinciples.VehicleInheritence.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VehicleInheritence.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\DesignPrinciples.VehicleInheritence.genruntimeconfig.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.Inheritence\obj\Debug\net8.0\ref\DesignPrinciples.VehicleInheritence.dll

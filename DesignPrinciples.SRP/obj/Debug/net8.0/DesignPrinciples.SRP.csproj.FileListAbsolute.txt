@@ -1,0 +1,14 @@
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\bin\Debug\net8.0\DesignPrinciples.SRP.exe
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\bin\Debug\net8.0\DesignPrinciples.SRP.deps.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\bin\Debug\net8.0\DesignPrinciples.SRP.runtimeconfig.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\bin\Debug\net8.0\DesignPrinciples.SRP.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\bin\Debug\net8.0\DesignPrinciples.SRP.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\DesignPrinciples.SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\DesignPrinciples.SRP.AssemblyInfoInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\DesignPrinciples.SRP.AssemblyInfo.cs
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\DesignPrinciples.SRP.csproj.CoreCompileInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\DesignPrinciples.SRP.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\refint\DesignPrinciples.SRP.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\DesignPrinciples.SRP.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\DesignPrinciples.SRP.genruntimeconfig.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.SRP\obj\Debug\net8.0\ref\DesignPrinciples.SRP.dll

@@ -1,0 +1,14 @@
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\bin\Debug\net8.0\DesignPrinciples.TightCoupling.exe
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\bin\Debug\net8.0\DesignPrinciples.TightCoupling.deps.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\bin\Debug\net8.0\DesignPrinciples.TightCoupling.runtimeconfig.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\bin\Debug\net8.0\DesignPrinciples.TightCoupling.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\bin\Debug\net8.0\DesignPrinciples.TightCoupling.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\DesignPrinciples.TightCoupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\DesignPrinciples.TightCoupling.AssemblyInfoInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\DesignPrinciples.TightCoupling.AssemblyInfo.cs
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\DesignPrinciples.TightCoupling.csproj.CoreCompileInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\DesignPrinciples.TightCoupling.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\refint\DesignPrinciples.TightCoupling.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\DesignPrinciples.TightCoupling.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\DesignPrinciples.TightCoupling.genruntimeconfig.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.TightAndLooseCoupling\obj\Debug\net8.0\ref\DesignPrinciples.TightCoupling.dll

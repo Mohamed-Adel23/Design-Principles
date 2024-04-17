@@ -1,0 +1,14 @@
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\bin\Debug\net8.0\DesignPrinciples.LooseCoupling.exe
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\bin\Debug\net8.0\DesignPrinciples.LooseCoupling.deps.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\bin\Debug\net8.0\DesignPrinciples.LooseCoupling.runtimeconfig.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\bin\Debug\net8.0\DesignPrinciples.LooseCoupling.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\bin\Debug\net8.0\DesignPrinciples.LooseCoupling.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\DesignPrinciples.LooseCoupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\DesignPrinciples.LooseCoupling.AssemblyInfoInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\DesignPrinciples.LooseCoupling.AssemblyInfo.cs
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\DesignPrinciples.LooseCoupling.csproj.CoreCompileInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\DesignPrinciples.LooseCoupling.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\refint\DesignPrinciples.LooseCoupling.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\DesignPrinciples.LooseCoupling.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\DesignPrinciples.LooseCoupling.genruntimeconfig.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.LooseCoupling\obj\Debug\net8.0\ref\DesignPrinciples.LooseCoupling.dll
