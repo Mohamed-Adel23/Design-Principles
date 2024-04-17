@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesignPrinciples.VehicleInheritence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28750f39bc3174fd792bc0adc82c89a4fc9d554c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesignPrinciples.VehicleInheritence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesignPrinciples.VehicleInheritence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

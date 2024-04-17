@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNET\\Design\\DesignPrinciples\\DesignPrinciples.Inheritence\\DesignPrinciples.VehicleInheritence.csproj": {}
+    "D:\\DotNET\\_Repos\\DesignPrinciples\\DesignPrinciples.VehicleInheritence\\DesignPrinciples.VehicleInheritence.csproj": {}
   },
   "projects": {
-    "D:\\DotNET\\Design\\DesignPrinciples\\DesignPrinciples.Inheritence\\DesignPrinciples.VehicleInheritence.csproj": {
+    "D:\\DotNET\\_Repos\\DesignPrinciples\\DesignPrinciples.VehicleInheritence\\DesignPrinciples.VehicleInheritence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNET\\Design\\DesignPrinciples\\DesignPrinciples.Inheritence\\DesignPrinciples.VehicleInheritence.csproj",
+        "projectUniqueName": "D:\\DotNET\\_Repos\\DesignPrinciples\\DesignPrinciples.VehicleInheritence\\DesignPrinciples.VehicleInheritence.csproj",
         "projectName": "DesignPrinciples.VehicleInheritence",
-        "projectPath": "D:\\DotNET\\Design\\DesignPrinciples\\DesignPrinciples.Inheritence\\DesignPrinciples.VehicleInheritence.csproj",
+        "projectPath": "D:\\DotNET\\_Repos\\DesignPrinciples\\DesignPrinciples.VehicleInheritence\\DesignPrinciples.VehicleInheritence.csproj",
         "packagesPath": "C:\\Users\\BnAdel\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNET\\Design\\DesignPrinciples\\DesignPrinciples.Inheritence\\obj\\",
+        "outputPath": "D:\\DotNET\\_Repos\\DesignPrinciples\\DesignPrinciples.VehicleInheritence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BnAdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
