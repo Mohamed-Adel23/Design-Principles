@@ -1,0 +1,14 @@
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\bin\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.exe
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\bin\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.deps.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\bin\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.runtimeconfig.json
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\bin\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\bin\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.AssemblyInfoInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.AssemblyInfo.cs
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.csproj.CoreCompileInputs.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\refint\DesignPrinciples.EncapsulateWhatVaries.dll
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.pdb
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\DesignPrinciples.EncapsulateWhatVaries.genruntimeconfig.cache
+D:\DotNET\Design\DesignPrinciples\DesignPrinciples.EncapsulateWhatVaries\obj\Debug\net8.0\ref\DesignPrinciples.EncapsulateWhatVaries.dll
