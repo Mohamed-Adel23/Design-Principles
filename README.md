@@ -26,11 +26,17 @@ It is one of the key principles of the *SOLID principles*, specifically associat
 - Respect (Open/Closed Principle (OCP))
 
 **Example:** You're tasked to design a system for a Pizza Restaurant which has different types of pizza 🍕
+
 ***Bad Design*** ☹️
+
 ![1](https://github.com/Mohamed-Adel23/Design-Principles/assets/119868046/93ca9949-07e4-4910-b7b2-5a45e00c2748)
+
 Here we have a method called (Order) which recieve the type of pizza and comparing it with the existing types (variable code) and then Prepare, Cook and Cut the pizza and finally returning it. the problem here is there is a variable code with constant one, which should be isolated (encapsulated) to avoid duplication, incosistency, ... etc
+
 ***Good Design*** 😊
+
 ![2](https://github.com/Mohamed-Adel23/Design-Principles/assets/119868046/ea5b6814-2594-4c24-87d4-e9e5be41feb0)
+
 Here we isolate the variable code in the (Create) Method which will create the Pizza based on the given type, so we managed to avoid many problems.
 
 ### [2] Inheritence VS Composition
